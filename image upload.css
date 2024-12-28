@@ -1,0 +1,65 @@
+*
+{
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #d7d9e0;
+}
+
+h1
+{
+    text-align: center;
+    padding: 20px;
+    background-color:#b4b6bf;
+    text-transform: capitalize;
+} 
+
+div.myform
+{
+    background-color: #676b73;
+    padding: 20px;
+    border-radius: 5px;
+    width: fit-content;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+div.myform div.input-field lable
+{
+    display: block;
+    font-weight: 550;
+}
+
+div.myform div.input-field input
+{
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 5px 8px;
+    outline: none;
+    margin-bottom: 20px;
+    margin-top: 3px;
+}
+
+div.myform div.submit-btn
+{
+    text-align: center;
+}
+
+div.myform div.submit-btn button
+{
+    padding: 5px 12px;
+    font-weight: 550;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 30px;
+
+}

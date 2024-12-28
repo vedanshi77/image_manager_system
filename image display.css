@@ -1,0 +1,39 @@
+*
+{
+    font-family: poppins;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: #d7d9e0;
+}
+
+h1
+{
+    text-align: center;
+    padding: 20px;
+    background-color:#b4b6bf;
+    text-transform: capitalize;
+} 
+div.data
+{
+    padding: 30px 60px;
+}
+div.data table{
+    width: 100%;
+    border: 2px solid black;
+    text-align: center;
+}
+table,table td,table tr,table th{
+    border: 2px solid black;
+    padding: 10px 20px;
+    border-collapse: collapse;
+}
+table thead{
+    background-color: cadetblue;
+    color: whitesmoke;
+}
+
