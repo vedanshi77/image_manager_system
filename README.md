@@ -1,0 +1,2 @@
+# image_manager_system
+ Image Manager System is a web-based application built with PHP and MySQL, designed to streamline image uploading, storage, and display. The system allows users to upload images with associated names, validates file types and sizes, and dynamically displays stored images in a tabular format. It includes robust error handling and ensures seamless integration with a database backend.
